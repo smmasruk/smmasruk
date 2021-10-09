@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @smmasruk
 - 👀 I’m interested in Theoretical Physics
-- 🌱 I’m currently learning Python, Algorithms and Data Structure. 
 - To reach me: 1820855@iub.edu.bd
 
 
