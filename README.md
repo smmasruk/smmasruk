@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smmasruk
 - 👀 I’m interested in Theoretical Physics
-- To reach me: 1820855@iub.edu.bd
+- To reach me: masruk.uddin@observatoiredeparis.psl.eu
 
 
 <!---
